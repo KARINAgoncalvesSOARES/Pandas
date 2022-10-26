@@ -10,3 +10,4 @@ Nesse repositório está sendo resaltado os comandos mais utilizado no pandas e 
 links de estudo:
 * [20 principais funções do pandas que você deveria estar usando!](https://colab.research.google.com/drive/evelup.gitconnected.com/top-20-pandas-functions-which-you-arent-using-which-you-should-be-using-a408a330daac)
 * [Top-20-pandas-functions](https://github.com/muhammadanas0716/Top-20-Pandas-Functions)
+* [Pandas](https://www.youtube.com/playlist?list=PLEdfCNsWt0gxURVswsV_STMrCo_n7rD5M)
